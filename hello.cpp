@@ -8,5 +8,6 @@ int main()
 {
 
     cout << "word" << " ";
+    cout << "change" << " ";
     cout << endl;
 }
