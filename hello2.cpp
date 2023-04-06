@@ -8,7 +8,6 @@ int main()
 {
 
     cout << "word" << " ";
-    cout << "change" << " ";
     cout << "change in github" << " ";
     cout << endl;
 }
